@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestUdemy.APP", "XUnitTestUdemy.APP\XUnitTestUdemy.APP.csproj", "{2BA2A171-AF4B-4460-8561-6EB3248362D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestUdemy.TEST", "XUnitTestUdemy.TEST\XUnitTestUdemy.TEST.csproj", "{13AA7DDF-D8DC-4796-808F-624397ABAA17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BA2A171-AF4B-4460-8561-6EB3248362D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BA2A171-AF4B-4460-8561-6EB3248362D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BA2A171-AF4B-4460-8561-6EB3248362D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BA2A171-AF4B-4460-8561-6EB3248362D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13AA7DDF-D8DC-4796-808F-624397ABAA17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13AA7DDF-D8DC-4796-808F-624397ABAA17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13AA7DDF-D8DC-4796-808F-624397ABAA17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13AA7DDF-D8DC-4796-808F-624397ABAA17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
